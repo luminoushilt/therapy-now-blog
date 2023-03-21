@@ -1161,19 +1161,14 @@
       "customFontSize": false,
       "fontFamilies": [
         {
-          "name": "Ui-sans-serif",
+          "name": "Source Sans Pro",
           "slug": "sans",
-          "fontFamily": "ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\""
+          "fontFamily": "Source Sans Pro,sans-serif"
         },
         {
-          "name": "Ui-serif",
+          "name": "Raleway",
           "slug": "serif",
-          "fontFamily": "ui-serif,Georgia,Cambria,\"Times New Roman\",Times,serif"
-        },
-        {
-          "name": "Ui-monospace",
-          "slug": "mono",
-          "fontFamily": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace"
+          "fontFamily": "Raleway,serif"
         }
       ],
       "fontSizes": [
