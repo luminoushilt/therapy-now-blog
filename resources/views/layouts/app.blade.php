@@ -4,6 +4,8 @@
 
 @include('sections.header')
 
+@include('sections.hero-section')
+
   <main id="main" class="main">
     @yield('content')
   </main>
